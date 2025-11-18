@@ -1,19 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [319] using StatReload
-INFO:     Started server process [321]
+INFO:     Started reloader process [396] using StatReload
+INFO:     Started server process [398]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:56792 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:56786 - "GET /api/destinations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56784 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56786 - "GET /api/destinations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56784 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56800 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56810 - "GET /api/destinations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56800 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56810 - "GET /api/destinations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39676 - "GET /api/destinations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39668 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39668 - "GET /api/tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39676 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36564 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:36580 - "GET /api/tours HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36584 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36584 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36580 - "GET /api/tours HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36586 - "GET /api/tours HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36586 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51556 - "GET /api/tours HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36586 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51576 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51562 - "GET /api/tours HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51576 - "GET /api/destinations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51562 - "GET /api/tours HTTP/1.1" 200 OK
